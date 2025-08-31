@@ -1,0 +1,4 @@
+# Ignore session files
+*.session.sql
+csv_files/*.csv
+.vscode/
