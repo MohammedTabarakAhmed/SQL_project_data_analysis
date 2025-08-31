@@ -171,7 +171,7 @@ ORDER BY
 LIMIT 30;
  ```
  
-# 📚 When I Learned
+# 📚 What I Learned
 
 - SQL is essential for all roles.
 - Cloud & big data skills boost pay.
